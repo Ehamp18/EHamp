@@ -1,0 +1,68 @@
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+.card{
+  margin-top: 5vh;
+
+}
+
+.my-image {
+  max-height: 25vh;
+  height: auto;
+  width: auto;
+}
+
+.link-li{
+  width: 30%;
+   width: 15em;
+   padding: 0em;
+   color: #00a86b;
+   background-color:black;
+   border-radius: 0.25em;
+   text-decoration: none;
+   text-align: center;
+}
+
+.link-ad{
+  width: 30%;
+   width: 15em;
+   padding: 0em;
+   color: #191970;
+   background-color:red;
+   border-radius: 0.25em;
+   text-decoration: none;
+   text-align: center;
+}
+
+.link-am{
+  width: 30%;
+   width: 15em;
+   padding: 0em;
+   color: #9932CC;
+   background-color:orange;
+   border-radius: 0.25em;
+   text-decoration: none;
+   text-align: center;
+}
+
+.about-card{
+  width: 40%;
+  type: auto;
+}
+
+.bowsre{
+  width: 20em;
+}
+
+.bowslo{
+  width: 20em;
+}
+
+.navbar a {
+  float: center;
+  font-size: 12px;
+}
